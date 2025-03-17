@@ -61,4 +61,4 @@ Acesse: http://localhost:3001
 - **✔ Parcelamento automático de despesas.**
 - **✔ Controle de entradas e saídas.**
 - **✔ Autenticação JWT (em breve).**
-- ✔ Deploy no Netlify e Vercel (em breve).**
+- ✔ Deploy no Netlify e Vercel (em breve).
