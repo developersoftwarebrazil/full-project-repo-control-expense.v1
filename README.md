@@ -22,4 +22,5 @@ Este projeto é um sistema para controle de entradas e saídas financeiras, perm
 - **Frontend:** Netlify  
 
 ## 📂 Estrutura do Projeto  
+full-project/ │── backend/ # API desenvolvida em NestJS │── frontend/ # Aplicação frontend em Next.js │── README.md # Documentação do projeto │── .gitignore # Arquivos ignorados no Git
 
