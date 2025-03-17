@@ -24,3 +24,11 @@ Este projeto é um sistema para controle de entradas e saídas financeiras, perm
 ## 📂 Estrutura do Projeto  
 full-project/ │── backend/ # API desenvolvida em NestJS │── frontend/ # Aplicação frontend em Next.js │── README.md # Documentação do projeto │── .gitignore # Arquivos ignorados no Git
 
+## 🚀 Como Rodar o Projeto  
+
+### **1️⃣ Clonar o repositório**
+```bash
+git clone https://github.com/seu-usuario/controle-gastos.git
+cd controle-gastos
+
+
