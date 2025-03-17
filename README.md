@@ -56,7 +56,7 @@ npm run dev
 ```
 Acesse: http://localhost:3001
 
-## **✅ Funcionalidades Principais **
+## **✅ Funcionalidades Principais**
 - **✔ Cadastro e listagem de despesas e receitas.**
 - **✔ Parcelamento automático de despesas.**
 - **✔ Controle de entradas e saídas.**
