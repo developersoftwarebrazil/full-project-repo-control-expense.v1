@@ -13,8 +13,7 @@ Este projeto é um sistema para controle de entradas e saídas financeiras, perm
 
 ### **📌 Frontend**  
 - **Next.js** (Framework React para frontend)  
-- **TailwindCSS** (Estilização)  
-- **Axios** (Requisições HTTP para o backend)  
+- **SCSS** (Estilização)  
 - **React Query** (Gerenciamento de estados assíncronos)  
 
 ### **📌 Deploy**  
