@@ -54,4 +54,11 @@ cp .env.example .env
 npm install
 npm run dev
 ```
+Acesse: http://localhost:3001
 
+## **✅ Funcionalidades Principais **
+- **✔ Cadastro e listagem de despesas e receitas.**
+- **✔ Parcelamento automático de despesas.**
+- **✔ Controle de entradas e saídas.**
+- **✔ Autenticação JWT (em breve).**
+- ✔ Deploy no Netlify e Vercel (em breve).**
